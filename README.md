@@ -35,3 +35,5 @@ computer. With the converter, I could revive 21 out of 25 possible midi files ou
 ## Source
 I have used the algorithm shown on this site to create the converter:
 <https://habr.com/en/post/81831/>
+
+p.s. дополнение от того, кто клонировал это репо: нормально в итоге не работает, увы проверял на ямаха пиаджерро
